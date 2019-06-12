@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "SkyChanger",
+    "author": "KennyPHM",
+    "description": "Changes the Sky",
+    "version": "1",
+    "options": {
+        "settingsVersion": 1,
+        "settingsFile": "config.json"
+    },
+    "servers": ["https://raw.githubusercontent.com/KennyPHM/SkyChanger/master/"],
+    "supportUrl": "https://github.com/KennyPHM/SkyChanger/issues"
+}

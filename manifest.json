@@ -1,0 +1,17 @@
+{
+	"files": {
+		"config.json": {
+			"overwrite": false,
+			"hash": "8ebe9259685ea37bb5e9527237151ec4d193f920b1c5b2e8d3870c367b21d4b2"
+		},
+		"index.js": "1b6bd2569a9c9e6623132023098b634aec5be4ded13a4787e9356f00b391d482",
+		"LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+		"module.json": "456a3fc9b729a46098502c5e470a3ac46f75058a7289b3fb971214700613c396",
+		"README.md": "419c7258fe94b2a52bc6631a986718b7a09128bb536b19cb833b966e1e8b0723"
+	},
+    "defs": {
+        "S_AERO": 1,
+        "C_LOAD_TOPO_FIN": 1,
+        "C_VISIT_NEW_SECTION": 1
+    }
+}
